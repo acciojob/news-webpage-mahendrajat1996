@@ -1,8 +1,16 @@
-/*  your css code here. If applicable */
-.hs{
-	background-color: #011e29;
+header{
+	background-color:#011e29;
+	text-align:center;
+	}
+body{
+	background-color: #f5f5f5;
 }
-
-#bd {
-    background-color:#f5f5f5;
+.pictorial-news-section{
+	text-align:center;
+}
+.mainarticle{
+	text-align:center;
+}
+.latest-news-section{
+	text-align:center;
 }
